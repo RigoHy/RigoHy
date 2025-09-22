@@ -20,7 +20,7 @@
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=RigoHy&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RigoHy&layout=donut)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RigoHy&layout=compact&theme=dark)  
 
 </div>
 
