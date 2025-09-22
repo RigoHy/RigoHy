@@ -82,6 +82,7 @@
 <div align="center">
   
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vQKMqxa52w)  
-✉rigoberto.mora.dev@gmail.com  
+✉[![Email](https://img.shields.io/badge/Email-Moradev.mx@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Moradev.mx@gmail.com)
+rigoberto.mora.dev@gmail.com  
 
 </div>
